@@ -1,3 +1,5 @@
+# A live version of this react app is hosted on: https://ghpages-tipcalc.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
