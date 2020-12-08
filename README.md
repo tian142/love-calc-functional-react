@@ -1,4 +1,4 @@
-# A live version of this react app is hosted on: https://ghpages-tipcalc.web.app/
+# A live version of this react app is hosted on: https://love-calculator-b1e95.web.app/
 
 # Getting Started with Create React App
 
