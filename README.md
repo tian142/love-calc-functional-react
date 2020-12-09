@@ -1,5 +1,9 @@
 # A live version of this react app is hosted on: https://love-calculator-b1e95.web.app/
 
+# RoadMap and extra features
+
+The compatability can have a profile feature and users can store their past search results in a list!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
